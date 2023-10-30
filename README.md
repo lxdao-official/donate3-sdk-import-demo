@@ -1,9 +1,6 @@
 # donate3-sdk-import-demo
 
 
-<a href="https://twitter.com/intent/follow?screen_name=web3clubCN">
-        <img src="https://img.shields.io/twitter/follow/web3clubCN?style=social&logo=X"
-            alt="follow on Twitter"></a>
 
 Donate-demo test+demo.
 We try to integrate donate3 into mainstream front-end frameworks as much as possible to ensure that donate3 works properly.
